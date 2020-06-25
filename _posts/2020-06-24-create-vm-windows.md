@@ -1,3 +1,9 @@
+---
+layout: post
+title: Create a Windows 10 Virtual Machine
+tags: [Azure]
+---
+
 # Create a Windows 10 Virtual Machine
 
 This is a guide on how to create a VM with Windows using Azure

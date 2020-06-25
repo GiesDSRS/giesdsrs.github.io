@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: DSRS
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# About
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The Data Science Research Service (DSRS) drives research within the Gies College of Business by assisting students, faculty, and staff with their data science, machine learning, computational infrastructure, and data acquisition needs. The DSRS works as a component of the Gies Disruption initiative in efforts to make Gies the most technologically-forward and data-capable business college in the world
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

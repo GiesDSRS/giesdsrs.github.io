@@ -12,9 +12,10 @@ author: DSRS Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
   Blog: "blog"
   DSRS home: "https://inside.giesbusiness.illinois.edu/academic-units/di/dsrs"
+  About: "about"
+
 
 # --- Logo --- #
 

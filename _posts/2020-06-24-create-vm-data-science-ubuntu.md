@@ -1,3 +1,9 @@
+---
+layout: post
+title: Create a Data Science Ubuntu Virtual Machine
+tags: [Azure]
+---
+
 ## Create a Data Science Ubuntu Virtual Machine
 
 This guide will go over how to create a VM with Ubuntu that has many preinstalled packages useful for data science and machine/deep learning on Azure.

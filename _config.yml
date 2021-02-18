@@ -4,7 +4,7 @@
 title: DSRS
 
 # Short description of your site
-description: Data Science Research Services
+description: Data Science Research Services\
 
 # Your name to show in the footer
 author: DSRS Team
@@ -13,7 +13,8 @@ author: DSRS Team
 
 navbar-links:
   Blog: "blog"
-  DSRS home: "https://inside.giesbusiness.illinois.edu/academic-units/di/dsrs"
+  For Researchers: "https://inside.giesbusiness.illinois.edu/academic-units/di/dsrs"
+  For Students: "https://giesgroups.illinois.edu/dsrs/data-science-research-service/"
   About: "about"
 
 

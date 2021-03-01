@@ -13,7 +13,7 @@ From here you will start building the VM
 
 ## Name the VM
 Here you will give a name and a description for your VM. You do not have to touch the other two options.
-![](/images/Figures/Radiant_name.png)
+![](/images/Figures/Radiant_Name.png)
 ## Pick a Source
 
 Here you will pick what operating system to run on your VM, along with how large you want the volume size to be and a few other options.
@@ -42,7 +42,7 @@ In here, you can either create a new key pair to be used for loging in to this v
 ## Configuration
 
 Finally, make sure to check the Configuration Drive button on this tab
-![](/images/Figures/Radiant_Configuration.png)
+![](/images/Figures/Radiant_configuration.png)
 
 
 This is all that is requried to make your VM! When you are done, click Launch Instance and this will build your VM.

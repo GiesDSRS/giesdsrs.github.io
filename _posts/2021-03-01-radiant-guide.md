@@ -38,7 +38,9 @@ If you would like to use your VM through SSH, make sure to allow remote SSH in t
 ![](/images/Figures/Radiant_SecurityGroups.png)
 ## Key Pair
 
-In here, you can either create a new key pair to be used for loging in to this vm, or you can create a new one.
+In here, you can either create a new key pair to be used for loging in to this vm, or you can create a new one. To create a new key click create a new key, give it a name, and select ssh key as the key type. Then move the newly created key up to the allocated section.
+
+If you want to then use this key to ssh, make sure you have a way to access it from wherever you are going to try to ssh from. For example, if you are going to ssh locally from your computer to the VM, you might want to save the key locally to your computer. To save the key locally, expand the key and then copy and paste the public key into a file and save it.
 ## Configuration
 
 Finally, make sure to check the Configuration Drive button on this tab
@@ -48,5 +50,8 @@ Finally, make sure to check the Configuration Drive button on this tab
 This is all that is requried to make your VM! When you are done, click Launch Instance and this will build your VM.
 
 To SSH into your instance, use the IP of your instance given under ext-net in the instance tab. The username will depend on what operating system you picked.
-For example, if you made an ubuntu system and it has IP 141.142.240.42, then you would try to ssh to ubuntu@141.142.240.42
+For example, if you made an ubuntu system with IP 141.142.240.42 and saved the key in a file named key.pem, then you would enter the following command into your command prompt
+
+
+ssh -i key.pem ubuntu@141.142.240.42
 
